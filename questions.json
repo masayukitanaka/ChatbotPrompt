@@ -1,0 +1,72 @@
+[
+    {
+        "name": "rear_wiper",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/image3.jpg",
+        "question": "What is the name of this part?"
+    },
+    {
+        "name": "diehard_battery",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/image4.png",
+        "question": "Can this battery used for Toyota Corolla 2020?"
+    },
+    {
+        "name": "car_jumper",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/image5.png",
+        "question": "Where am I supposed to connect wires for jump starting?"
+    },
+    {
+        "name": "dashboard_light",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/sign.jpeg",
+        "question": "What does this sign mean?"
+    },
+    {
+        "name": "tire",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0365.HEIC.jpg",
+        "question": "What's the type of tire I could use for this car?"
+    },
+    {
+        "name": "antenna",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0366.HEIC.jpg",
+        "question": "What's the name of this antenna? What is it for?"
+    },
+    {
+        "name": "gas_cap",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0368.HEIC.jpg",
+        "question": "How can I open this?"
+    },
+    {
+        "name": "security_label",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0369.HEIC.jpg",
+        "question": "What's the meaning of this sticker?"
+    },
+    {
+        "name": "blue_sign",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0370.HEIC.jpg",
+        "question": "What's the meaning of this blue sign?"
+    },
+    {
+        "name": "mileage_meter",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0372.HEIC.jpg",
+        "question": "How can I reset the 'Trip A' meter on the second line?"
+    },
+    {
+        "name": "orange_sign",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0374.HEIC.jpg",
+        "question": "What's the meaning of this orange sign, depicting a seat belted person with 'OFF' and '2' number?"
+    },
+    {
+        "name": "ac_mode",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0375.HEIC.jpg",
+        "question": "Explain difference among these AC modes."
+    },
+    {
+        "name": "ac_lever",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0376.HEIC.jpg",
+        "question": "Explain this horizontal lever affecting AC."
+    },
+    {
+        "name": "econ_button",
+        "url": "https://public-persistent-us-west-2.s3.us-west-2.amazonaws.com/car/IMG_0377.HEIC.jpg",
+        "question": "What's this green button labeled 'ECON'?"
+    }
+]
